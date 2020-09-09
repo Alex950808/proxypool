@@ -4,14 +4,15 @@
 #    url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
 # 订阅链接
-#- type: subscribe
-#  options:
+- type: subscribe
+  options:
+    url: https://subcon.py6.pw/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsprindjack%2Fsubgo%2Fmaster%2Findex3.html&insert=false
 #    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
 # 网页模糊抓取
-- type: webfuzz
-  options:
-     url: https://subcon.py6.pw/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsprindjack%2Fsubgo%2Fmaster%2Findex3.html&insert=false&emoji=true&list=true&udp=true&tfo=false&scv=true&fdn=false&sort=false
+#- type: webfuzz
+#  options:
+#     url: https://subcon.py6.pw/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsprindjack%2Fsubgo%2Fmaster%2Findex3.html&insert=false&emoji=true&list=true&udp=true&tfo=false&scv=true&fdn=false&sort=false
 #    url: https://merlinblog.xyz/wiki/freess.html
 
 # tg频道抓取
