@@ -1,4 +1,4 @@
 # 订阅链接
-#- type: subscribe
-#  options:
-#    url: https://subcon.py6.pw/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsprindjack%2Fsubgo%2Fmaster%2Findex3.html&insert=false
+- type: subscribe
+  options:
+    url: https://subcon.py6.pw/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsprindjack%2Fsubgo%2Fmaster%2Findex3.html&insert=false
