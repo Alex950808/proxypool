@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
- # - https://raw.githubusercontent.com/sprindjack/proxypool/master/config/source.yaml
+  - https://raw.githubusercontent.com/sprindjack/proxypool/master/config/source.yaml
