@@ -1,20 +1,20 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+    url: https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html
 
 - type: webfuzzsub
-   options:
-     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+  options:
+    url: https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html
 
 - type: webfuzz
-   options:
-     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+  options:
+    url: https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html
      
 - type: web-fanqiangdang
-   options:
-     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+  options:
+    url: https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html
      
 - type: web-freessrxyz
-   options:
-     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+  options:
+    url: https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html
