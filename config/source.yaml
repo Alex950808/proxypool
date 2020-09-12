@@ -2,3 +2,19 @@
 - type: subscribe
   options:
     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+
+- type: webfuzzsub
+   options:
+     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+
+- type: webfuzz
+   options:
+     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+     
+- type: web-fanqiangdang
+   options:
+     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
+     
+- type: web-freessrxyz
+   options:
+     url: https://subcon.py6.pw/sub?target=v2ray&url=https://raw.githubusercontent.com/sprindjack/subgo/master/index3.html&insert=false
