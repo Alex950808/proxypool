@@ -11,6 +11,6 @@ cf_key: ""
 # source definition file
 source-files:
   # use local file
-  - source.yaml
+ # - source.yaml
   # use web file
   - https://raw.githubusercontent.com/sprindjack/proxypool/master/config/source.yaml
