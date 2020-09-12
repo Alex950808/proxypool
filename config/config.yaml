@@ -2,7 +2,7 @@
 domain: nb521.herokuapp.com
 
 # database url
-database_url: ""
+database_url: "postgres://wtczizztgcgkai:65b7ce5db516075bd90f33f50b8b2fa3ff68bdb086d45c454378f82b23ab7b67@ec2-52-207-124-89.compute-1.amazonaws.com:5432/dbbn4aiktbip22"
 
 # cloudflare api
 cf_email: ""
