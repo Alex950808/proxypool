@@ -1,8 +1,8 @@
 # your domain
-domain: nb521.herokuapp.com
+domain: 测试.herokuapp.com
 
 # database url
-database_url: "postgres://wtczizztgcgkai:65b7ce5db516075bd90f33f50b8b2fa3ff68bdb086d45c454378f82b23ab7b67@ec2-52-207-124-89.compute-1.amazonaws.com:5432/dbbn4aiktbip22"
+database_url: ""
 
 # cloudflare api
 cf_email: ""
@@ -13,4 +13,4 @@ source-files:
   # use local file
  # - source.yaml
   # use web file
-  - https://raw.githubusercontent.com/sprindjack/proxypool/master/config/source.yaml
+  #- https://raw.githubusercontent.com/sprindjack/proxypool/master/config/source.yaml
