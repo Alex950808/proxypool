@@ -1,5 +1,5 @@
 # your domain
-domain: 测试.herokuapp.com
+domain: pnb52.herokuapp.com
 
 # database url
 database_url: ""
@@ -13,4 +13,4 @@ source-files:
   # use local file
  # - source.yaml
   # use web file
-  #- https://raw.githubusercontent.com/sprindjack/proxypool/master/config/source.yaml
+  - https://raw.githubusercontent.com/sprindjack/newproxypool/master/config/source.yaml
