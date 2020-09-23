@@ -11,6 +11,18 @@
 - type: webfuzzsub
   options:
     url: http://d.zaix.ru/ntiL.txt
+- type: webfuzzsub
+  options:
+    url: https://github.com/umelabs/node.umelabs.dev
+- type: webfuzzsub
+  options:
+    url: https://github.com/freefq/free
+- type: webfuzzsub
+  options:
+    url: https://github.com/oouxx/fqsub/blob/7f35b272888341f207acc10c92f1eb0be431e0e3/sub.list
+- type: webfuzzsub
+  options:
+    url: https://github.com/woytu/notes-vuepress/blob/757206d5c10d112d56a3c789d5a622d4bcfe6375/System/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.md
 
 # 订阅链接
 - type: subscribe
@@ -18,21 +30,27 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
-    url: http://129.211.76.192/ssr/0904ssr.txt
-- type: subscribe
-  options:
-    url: https://proxy.tgbot.co/ss/sub
-- type: subscribe
-  options:
-    url: https://proxy.tgbot.co/vmess/sub
-- type: subscribe
-  options:
     url: https://bihai-v2ray.netlify.com
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
 
 # 网页模糊抓取
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
+- type: webfuzz
+  options:
+    url: https://github.com/umelabs/node.umelabs.dev
+- type: webfuzz
+  options:
+    url: https://github.com/freefq/free
 - type: webfuzz
   options:
     url: https://github.com/iwxf/free-v2ray/blob/master/README.md
@@ -102,10 +120,6 @@
 - type: tgchannel
   options:
     channel: SSRSUB
-    num: 200
-- type: tgchannel
-  options:
-    channel: moneyfly01
     num: 200
 - type: tgchannel
   options:
