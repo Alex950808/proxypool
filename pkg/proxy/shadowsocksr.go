@@ -70,7 +70,7 @@ func (ssr ShadowsocksR) Link() (link string) {
 	query.Add("obfsparam", tool.Base64EncodeString(ssr.ObfsParam, true))
 	query.Add("protoparam", tool.Base64EncodeString(ssr.ProtocolParam, true))
 	query.Add("remarks", tool.Base64EncodeString(ssr.Name, true))
-	query.Add("group", tool.Base64EncodeString("proxy.tgbot.co", true))
+	query.Add("group", tool.Base64EncodeString("alexproxy001.herokuapp.com", true))
 	payload = tool.Base64EncodeString(fmt.Sprintf("%s/?%s", payload, query.Encode()), true)
 	return fmt.Sprintf("ssr://%s", payload)
 }
