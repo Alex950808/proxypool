@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/Alex950808/proxypool/actions">
-    <img src="https://img.shields.io/github/workflow/status/zu1k/proxypool/Go?style=flat-square" alt="Github Actions">
+    <img src="https://img.shields.io/github/workflow/status/Alex950808/proxypool/Go?style=flat-square" alt="Github Actions">
   </a>
   <a href="https://goreportcard.com/report/github.com/Alex950808/proxypool">
     <img src="https://goreportcard.com/badge/github.com/Alex950808/proxypool?style=flat-square">
   </a>
   <a href="https://github.com/Alex950808/proxypool/releases">
-    <img src="https://img.shields.io/github/release/zu1k/proxypool/all.svg?style=flat-square">
+    <img src="https://img.shields.io/github/release/Alex950808/proxypool/all.svg?style=flat-square">
   </a>
 </p>
 
