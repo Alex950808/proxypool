@@ -4,8 +4,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/zu1k/proxypool/pkg/proxy"
-	"github.com/zu1k/proxypool/pkg/tool"
+	"github.com/Alex950808/proxypool/pkg/proxy"
+	"github.com/Alex950808/proxypool/pkg/tool"
 )
 
 type Getter interface {

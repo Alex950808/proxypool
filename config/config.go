@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/ghodss/yaml"
-	"github.com/zu1k/proxypool/pkg/tool"
+	"github.com/Alex950808/proxypool/pkg/tool"
 )
 
 var configFilePath = "config.yaml"

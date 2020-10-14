@@ -3,7 +3,7 @@ package provider
 import (
 	"strings"
 
-	"github.com/zu1k/proxypool/pkg/proxy"
+	"github.com/Alex950808/proxypool/pkg/proxy"
 )
 
 type Provider interface {
