@@ -13,4 +13,4 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  - https://raw.githubusercontent.com/Alex950808/proxypool/master/config/config.yaml
+  - https://raw.githubusercontent.com/Alex950808/proxypool/master/config/source.yaml
