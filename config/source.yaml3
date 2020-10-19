@@ -67,10 +67,6 @@
     num: 200
 - type: tgchannel
   options:
-    channel: moneyfly01
-    num: 200
-- type: tgchannel
-  options:
     channel: ssrv2taytgshare
     num: 200
 - type: tgchannel
@@ -79,15 +75,7 @@
     num: 200
 - type: tgchannel
   options:
-    channel: gyjclub
-    num: 200
-- type: tgchannel
-  options:
     channel: TgProxies
-    num: 200
-- type: tgchannel
-  options:
-    channel: youmtp
     num: 200
 - type: tgchannel
   options:
