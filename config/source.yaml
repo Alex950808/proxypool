@@ -186,6 +186,10 @@
     num: 200
 - type: tgchannel
   options:
+    channel: daolis_miao
+    num: 200
+- type: tgchannel
+  options:
     channel: TgProxies
     num: 200
 
