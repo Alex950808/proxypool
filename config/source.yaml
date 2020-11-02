@@ -8,9 +8,9 @@
 - type: webfuzzsub
   options:
     url: https://t.me/s/ssrv2taytgshare?before=743
-- type: webfuzzsub
-  options:
-    url: http://d.zaix.ru/ntiL.txt
+#- type: webfuzzsub
+#  options:
+#    url: http://d.zaix.ru/ntiL.txt
 - type: webfuzzsub
   options:
     url: https://github.com/umelabs/node.umelabs.dev
@@ -186,11 +186,43 @@
     num: 200
 - type: tgchannel
   options:
-    channel: daolis_miao
+    channel: TgProxies
     num: 200
 - type: tgchannel
   options:
-    channel: TgProxies
+    channel: TG_Mtproxy_1
+    num: 200
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 200
+- type: tgchannel
+  options:
+    channel: sharecentre
+    num: 200    
+- type: tgchannel
+  options:
+    channel: daolis_miao
+    num: 200vmesssr
+- type: tgchannel
+  options:
+    channel: vmesssr
+    num: 200
+- type: tgchannel
+  options:
+    channel: sphard
+    num: 200
+- type: tgchannel
+  options:
+    channel: pjzyj0
+    num: 200
+- type: tgchannel
+  options:
+    channel: jiedianfenxiang
+    num: 200
+- type: tgchannel
+  options:
+    channel: flyingboat
     num: 200
 
 # 翻墙党论坛抓取
