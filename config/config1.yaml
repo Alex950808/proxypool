@@ -1,0 +1,16 @@
+# your domain
+domain: alex11112.herokuapp.com
+
+# database url
+database_url: ""
+
+# cloudflare api
+cf_email: ""
+cf_key: ""
+
+# source definition file
+source-files: 
+  # use local file
+  #- ./config/source.yaml
+  # use web file
+  - https://raw.githubusercontent.com/Alex950808/proxypool/master/config/source.yaml
