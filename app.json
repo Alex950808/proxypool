@@ -8,10 +8,10 @@
     "keywords": ["golang", "ss", "ssr", "vmess", "shadowsocks", "shadowsocksr", "trojan"],
     "env": {
         "CONFIG_FILE": {
-            "description": "Path to config file, could be a url."
+            "description": "./config/config.yaml"
         },
         "DOMAIN": {
-            "description": "Domain to use."
+            "description": "127.0.0.1"
         },
         "CF_API_EMAIL": {
             "description": "Cloudflare Email.",
