@@ -1,16 +1,11 @@
-FROM golang:alpine as builder
+FROM golang:1.10.0
 
-RUN apk add --no-cache make git
-WORKDIR /proxypool-src
-COPY . /proxypool-src
-RUN go mod download && \
-    make docker && \
-    mv ./bin/proxypool-docker /proxypool
+WORKDIR /go/src/app
 
-FROM alpine:latest
+COPY . .
 
-RUN apk add --no-cache ca-certificates tzdata
-WORKDIR /proxypool-src
-COPY ./assets /proxypool-src/assets
-COPY --from=builder /proxypool /proxypool-src/
-ENTRYPOINT ["/proxypool-src/proxypool"]
+RUN go get -d -v ./...
+
+RUN go install -v ./...
+
+ENTRYPOINT ["app"]
